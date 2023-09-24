@@ -1,0 +1,9 @@
+.close-button
+{
+    right:5%;
+    top:4vh;
+    position: fixed;
+    z-index: 100;
+    color:white;
+    text-decoration: none;
+}
